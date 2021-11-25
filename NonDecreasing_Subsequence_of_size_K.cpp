@@ -1,4 +1,7 @@
 // Author- satyam_kumar_yadav (Master by Feb 2023) *_*
+
+// https://www.codechef.com/SNCKPE21/problems/DECSUBK (Problem Link)
+
 #include <bits/stdc++.h>
 using namespace std;
 #define int                     long long
