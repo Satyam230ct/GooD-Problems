@@ -1,6 +1,6 @@
 int best_candidate(map<int,int> &mp,int v)
 {
-    auto it=mp.upper_bound(v);  // Similary we use lower bond if he ask for strictly dec.
+    auto it=mp.upper_bound(v);  // Similary we use lower bond if he ask for strictly Increasing.
     if(it==mp.begin())return 0;
     it--;
     return it->second;
