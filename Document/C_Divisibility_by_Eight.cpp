@@ -1,5 +1,5 @@
 /* Author- Satyam_kumar_Yadav -Master by Feb:2023- づ(｡◕‿‿◕｡)づ */
-
+// https://codeforces.com/problemset/problem/550/C
 #include <bits/stdc++.h>
 using namespace std;
 
