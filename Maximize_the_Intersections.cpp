@@ -1,4 +1,4 @@
-/* Author- Satyam_kumar_Yadav -Master by Feb:2023- づ(｡◕‿‿◕｡)づ */
+// https://codeforces.com/contest/1552/problem/C 
 
 #include <bits/stdc++.h>
 using namespace std;
